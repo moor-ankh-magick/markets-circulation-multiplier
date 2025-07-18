@@ -1,0 +1,7 @@
+{
+  "/api/trading/market/route": "app/api/trading/market/route.js",
+  "/api/trading/signals/route": "app/api/trading/signals/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/trading/page": "app/trading/page.js"
+}
